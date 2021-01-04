@@ -1,0 +1,4 @@
+2019-11-11 08:19:44 | Logs Cleared: by User ID 1
+2019-11-11 08:19:48 | Login: kskoglund logged in.
+2019-11-11 08:22:13 | Login: kskoglund logged in.
+2019-11-11 08:22:15 | Login: kskoglund logged in.
